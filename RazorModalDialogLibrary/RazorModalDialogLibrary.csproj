@@ -4,6 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <PackageId>Razor.ModalDialogLibrary</PackageId>
+	  <Version>0.1.0</Version>
+	  <Authors>Eric Rojas-Montesino</Authors>
+	  <Company>EOSOFT</Company>
+	  <Description>This is a Razor component library that contains a modal window component</Description>
   </PropertyGroup>
 
 
